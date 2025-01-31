@@ -1,10 +1,10 @@
-<h1 align="center"><b>Hola, me llamo Jose David </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hello, my name is Jose David </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 # 💫 About Me:
 
-Soy José David Rodríguez Contreras, un apasionado programador con experiencia en el desarrollo de aplicaciones web modernas y escalables. Trabajo con tecnologías como HTML, CSS y JavaScript, y frameworks como React, Vite y Node.js.
+I am José David Rodríguez Contreras, a passionate programmer with experience in developing modern and scalable web applications. I work with technologies such as **HTML, CSS, and JavaScript**, as well as frameworks like **React, Vite, and Node.js**.
 
-Tengo experiencia en el manejo de bases de datos con MongoDB, utilizando herramientas como Postman y MongoDB Compass para optimizar y gestionar APIs y servicios backend. Me encanta aprender nuevas tecnologías, optimizar código y crear soluciones eficientes que mejoren la experiencia del usuario.
+I have experience managing databases with **MongoDB**, using tools like **Postman and MongoDB Compass** to optimize and manage APIs and backend services. I love learning new technologies, optimizing code, and creating efficient solutions that enhance user experience.
 
 
 
@@ -29,8 +29,7 @@ Tengo experiencia en el manejo de bases de datos con MongoDB, utilizando herrami
 
 
 <p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
-   <br>
+   <h3>Contact me :D</h3>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/jose-david-rodriguez-contreras-a118ab34a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:josedevrc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
